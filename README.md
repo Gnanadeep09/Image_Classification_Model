@@ -19,7 +19,7 @@ This project implements an image classification model using Convolutional Neural
 ```
 image_classification/
 ├── app.py                    # Streamlit prediction interface
-├── image_model.py           # Model training script
+├── Image_Classification_Model.py           # Model training script
 ├── model.h5                 # Saved Keras model
 ├── dataset/                 # Image dataset (organized by folder/class)
 │   ├── train/
